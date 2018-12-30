@@ -1,0 +1,9 @@
+[package]
+name = "prometrics_exporter"
+version = "0.1.0"
+authors = ["Cameron Daniel <cam.daniel@gmail.com>"]
+
+[dependencies]
+log = "^0.4"
+prometrics = "^0.1.11"
+rouille = "^3.0"
